@@ -45,6 +45,10 @@ You can skip using virtual environment if needed
 Check for supported versions
 Install chromewebdriver which supports your current browser
 
+python main.py 
+
+All Done .
+
 
 
 
